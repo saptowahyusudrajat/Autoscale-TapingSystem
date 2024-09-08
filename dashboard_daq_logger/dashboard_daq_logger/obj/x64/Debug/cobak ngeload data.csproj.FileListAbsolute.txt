@@ -1,0 +1,12 @@
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\bin\x64\Debug\cobak ngeload data.exe.config
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\bin\x64\Debug\cobak ngeload data.exe
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\bin\x64\Debug\cobak ngeload data.pdb
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\bin\x64\Debug\GemBox.Spreadsheet.dll
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak ngeload data.csprojAssemblyReference.cache
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak_ngeload_data.Form1.resources
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak_ngeload_data.Properties.Resources.resources
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak ngeload data.csproj.GenerateResource.cache
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak ngeload data.csproj.CoreCompileInputs.cache
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak ngeload data.csproj.CopyComplete
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak ngeload data.exe
+C:\Users\antares\Documents\proyek byi\cobak ngeload data\cobak ngeload data\obj\x64\Debug\cobak ngeload data.pdb
